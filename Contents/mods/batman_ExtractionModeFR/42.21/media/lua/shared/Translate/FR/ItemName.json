@@ -1,0 +1,18 @@
+{
+    "ExtractionMode.BodyBag": "Housse mortuaire",
+    "ExtractionMode.ExtractionFlareGun": "Pistolet lance-fusées d'extraction",
+    "ExtractionMode.FlareRound": "Cartouche de fusée d'extraction",
+    "ExtractionMode.InfectionCure": "Remède expérimental contre l'infection de Knox",
+    "ExtractionMode.SpecialDocuments": "Documents spéciaux",
+    "ExtractionMode.CouriersLedger": "Registre du coursier",
+    "ExtractionMode.MedicalTransportCooler": "Glacière de transport médical",
+    "ExtractionMode.TransferManifest": "Bordereau de transfert",
+    "ExtractionMode.ResearchersNotes": "Notes du chercheur",
+    "ExtractionMode.QuarantineMedicalRecords": "Dossiers médicaux de la quarantaine",
+    "ExtractionMode.EvacuationRecords": "Dossiers d'évacuation",
+    "ExtractionMode.MedicalTransferRecords": "Dossiers de transfert médical",
+    "ExtractionMode.PatientZeroSample": "Échantillon du patient zéro",
+    "ExtractionMode.CommercialPropertyRecords": "Dossiers de propriété commerciale",
+    "ExtractionMode.GrandOhioMallPlans": "Plans du Grand Ohio Mall",
+    "ExtractionMode.VaccineSample": "Échantillon de vaccin"
+}

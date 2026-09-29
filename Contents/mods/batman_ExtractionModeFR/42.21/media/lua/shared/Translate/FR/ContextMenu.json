@@ -1,0 +1,17 @@
+{
+    "ContextMenu_ExtractionMode_DisposeBody": "Se débarrasser du corps",
+    "ContextMenu_ExtractionMode_AdministerCure": "Administrer le remède expérimental contre l'infection",
+    "ContextMenu_ExtractionMode_AssignDeliveryContainer": "Attribuer un conteneur de livraison...",
+    "ContextMenu_ExtractionMode_Board": "Monter dans l'hélicoptère d'extraction",
+    "ContextMenu_ExtractionMode_Boarding": "Embarquement dans l'hélicoptère d'extraction...",
+    "ContextMenu_ExtractionMode_CancelReady": "Annuler « prêt pour le raid »",
+    "ContextMenu_ExtractionMode_ChooseDestination": "Choisir la destination du raid...",
+    "ContextMenu_ExtractionMode_Contacts": "Contacts...",
+    "ContextMenu_ExtractionMode_EquipFlare": "Équiper le pistolet lance-fusées d'extraction (E%1)",
+    "ContextMenu_ExtractionMode_FlareReady": "Fusée prête : visez et tirez (E%1)",
+    "ContextMenu_ExtractionMode_GarageControls": "Commandes du garage...",
+    "ContextMenu_ExtractionMode_HideoutUpgrades": "Améliorations de la planque...",
+    "ContextMenu_ExtractionMode_Ready": "Prêt pour le raid",
+    "ContextMenu_ExtractionMode_SignalVaccineHelicopter": "Appeler l'hélicoptère du vaccin",
+    "ContextMenu_ExtractionMode_VaccineHelicopterInbound": "Hélicoptère du vaccin en approche (%1 s)"
+}

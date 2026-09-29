@@ -1,0 +1,26 @@
+version=1
+title=Extraction Mode - French Translation (Traduction française)
+description=[h1]Extraction Mode - French Translation[/h1]
+description=
+description=[b]Build 42.21 · Singleplayer & Multiplayer[/b]
+description=
+description=Complete French translation of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275]Extraction Mode[/url] by Zakreon: interface, hideout and garage panels, quests and NPC dialogue, raid messages, items and sandbox options.
+description=
+description=[h2]How to use[/h2]
+description=[list]
+description=[*]Enable [b]Extraction Mode[/b] and this mod.
+description=[*]Set the game language to [b]Français[/b] in the game options.
+description=[*]In multiplayer, each player sees the mod in their own language: install it on the server and the clients.
+description=[/list]
+description=
+description=[h2]Notes[/h2]
+description=[list]
+description=[*]Translation only: no gameplay change, safe to add or remove at any time.
+description=[*]A few texts built directly in the original mod's code (without a translation key) stay in English.
+description=[*]Based on Extraction Mode 0.9.6. New texts added by later updates appear in English until this translation is updated.
+description=[/list]
+description=
+description=[h2]Credits[/h2]
+description=Extraction Mode is made by Zakreon. All rights to the original mod belong to its author. The poster is the original Extraction Mode artwork with a French ribbon added.
+tags=Build 42;Language/Translation;Multiplayer
+visibility=private

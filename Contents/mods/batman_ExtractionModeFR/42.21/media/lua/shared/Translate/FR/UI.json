@@ -1,0 +1,8 @@
+{
+    "UI_ExtractionMode_OptionsTitle": "Extraction Mode",
+    "UI_ExtractionMode_UseVanillaDeath": "Utiliser la mort vanilla",
+    "UI_ExtractionMode_UseVanillaDeathTooltip": "Si « Laisser les joueurs choisir la mort vanilla » est activé dans les options du bac à sable, vous mourez normalement et créez un nouveau survivant au lieu d'être secouru. Décoché : le réglage « Gestion de la mort » du monde s'applique. Les changements prennent effet dans la planque avant que vous vous déclariez prêt ; ceux faits pendant un raid attendent votre retour. Cette préférence est enregistrée sur cet ordinateur et ne s'applique que dans les mondes qui l'autorisent.",
+    "UI_ExtractionMode_ExtractionMusicVolume": "Volume de la musique d'extraction",
+    "UI_ExtractionMode_ShowAdminSingleplayer": "Afficher les commandes admin en solo",
+    "UI_ExtractionMode_ShowAdminSingleplayerTooltip": "Affiche le bouton Admin à côté du bouton de réduction du HUD de raid. Les administrateurs en multijoueur y ont toujours accès, quelle que soit cette option."
+}

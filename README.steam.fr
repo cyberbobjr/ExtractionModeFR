@@ -1,0 +1,22 @@
+[h1]Extraction Mode - Traduction française[/h1]
+
+[b]Build 42.21 · Solo et multijoueur[/b]
+
+Traduction française complète d'[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275]Extraction Mode[/url] de Zakreon : interface, panneaux de la planque et du garage, quêtes et dialogues des PNJ, messages de raid, objets et options de bac à sable.
+
+[h2]Utilisation[/h2]
+[list]
+[*]Activez [b]Extraction Mode[/b] et ce mod.
+[*]Choisissez la langue [b]Français[/b] dans les options du jeu.
+[*]En multijoueur, chaque joueur voit le mod dans sa propre langue : installez-le sur le serveur et sur les clients.
+[/list]
+
+[h2]Remarques[/h2]
+[list]
+[*]Traduction uniquement : aucun changement de gameplay, ajout ou retrait possible à tout moment.
+[*]Quelques textes écrits directement dans le code du mod d'origine (sans clé de traduction) restent en anglais.
+[*]Basée sur Extraction Mode 0.9.6. Les nouveaux textes ajoutés par les mises à jour suivantes s'affichent en anglais jusqu'à la mise à jour de cette traduction.
+[/list]
+
+[h2]Crédits[/h2]
+Extraction Mode est créé par Zakreon. Tous les droits sur le mod d'origine appartiennent à son auteur. Le poster est l'illustration originale d'Extraction Mode, avec un bandeau français ajouté.

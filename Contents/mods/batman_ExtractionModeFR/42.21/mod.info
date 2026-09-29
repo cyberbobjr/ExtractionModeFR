@@ -1,0 +1,8 @@
+name=batman_Extraction Mode - Traduction française
+id=batman_ExtractionModeFR
+description=Traduction française complète d'Extraction Mode (Workshop 3785397275, par Zakreon) : interface, quêtes, messages, objets et options de bac à sable. Choisir la langue Français dans les options du jeu.
+require=\ExtractionMode
+loadModAfter=ExtractionMode
+versionMin=42.21
+modversion=1.0.0
+poster=poster.png
