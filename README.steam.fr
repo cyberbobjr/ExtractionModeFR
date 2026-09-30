@@ -20,3 +20,4 @@ Traduction française complète d'[url=https://steamcommunity.com/sharedfiles/fi
 
 [h2]Crédits[/h2]
 Extraction Mode est créé par Zakreon. Tous les droits sur le mod d'origine appartiennent à son auteur. Le poster est l'illustration originale d'Extraction Mode, avec un bandeau français ajouté.
+Fichiers de traduction sur [url=https://github.com/cyberbobjr/ExtractionModeFR]GitHub[/url].

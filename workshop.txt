@@ -23,5 +23,6 @@ description=[/list]
 description=
 description=[h2]Credits[/h2]
 description=Extraction Mode is made by Zakreon. All rights to the original mod belong to its author. The poster is the original Extraction Mode artwork with a French ribbon added.
+description=Translation files on [url=https://github.com/cyberbobjr/ExtractionModeFR]GitHub[/url].
 tags=Build 42;Language/Translation;Multiplayer
 visibility=private
