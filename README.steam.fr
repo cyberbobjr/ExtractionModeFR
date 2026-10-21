@@ -18,6 +18,11 @@ Traduction française complète d'[url=https://steamcommunity.com/sharedfiles/fi
 [*]Basée sur Extraction Mode 0.9.6. Les nouveaux textes ajoutés par les mises à jour suivantes s'affichent en anglais jusqu'à la mise à jour de cette traduction.
 [/list]
 
+[h2]Discord[/h2]
+
+Questions, bugs ou idées ? Rejoignez le Discord :
+[url=https://discord.gg/QEsBya7hUA]https://discord.gg/QEsBya7hUA[/url]
+
 [h2]Crédits[/h2]
 Extraction Mode est créé par Zakreon. Tous les droits sur le mod d'origine appartiennent à son auteur. Le poster est l'illustration originale d'Extraction Mode, avec un bandeau français ajouté.
 Fichiers de traduction sur [url=https://github.com/cyberbobjr/ExtractionModeFR]GitHub[/url].

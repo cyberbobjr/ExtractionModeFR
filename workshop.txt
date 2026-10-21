@@ -21,6 +21,11 @@ description=[*]A few texts built directly in the original mod's code (without a 
 description=[*]Based on Extraction Mode 0.9.6. New texts added by later updates appear in English until this translation is updated.
 description=[/list]
 description=
+description=[h2]Discord[/h2]
+description=
+description=Questions, bug reports or ideas? Join the Discord:
+description=[url=https://discord.gg/QEsBya7hUA]https://discord.gg/QEsBya7hUA[/url]
+description=
 description=[h2]Credits[/h2]
 description=Extraction Mode is made by Zakreon. All rights to the original mod belong to its author. The poster is the original Extraction Mode artwork with a French ribbon added.
 description=Translation files on [url=https://github.com/cyberbobjr/ExtractionModeFR]GitHub[/url].
