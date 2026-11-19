@@ -3,7 +3,7 @@ id=3810307405
 title=Extraction Mode - French Translation (Traduction française)
 description=[h1]Extraction Mode - Traduction française[/h1]
 description=
-description=[b]Build 42.21 · Solo et multijoueur[/b]
+description=[b]Build 42.22 · Solo et multijoueur[/b]
 description=
 description=Traduction française complète d'[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275]Extraction Mode[/url] de Zakreon : interface, panneaux de la planque et du garage, quêtes et dialogues des PNJ, messages de raid, objets et options de bac à sable.
 description=

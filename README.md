@@ -1,6 +1,6 @@
 # Extraction Mode - Traduction française
 
-French translation of [Extraction Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275) by Zakreon, for Project Zomboid Build 42.21.
+French translation of [Extraction Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275) by Zakreon, for Project Zomboid Build 42.22.
 
 - Mod id: `batman_ExtractionModeFR` (requires `ExtractionMode`)
 - Translated files: `Contents/mods/batman_ExtractionModeFR/42.21/media/lua/shared/Translate/FR/*.json`
